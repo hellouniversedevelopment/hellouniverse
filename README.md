@@ -1,2 +1,1 @@
-# hellouniverse
-Website for Hello Universe!
+# Website for Hello Universe!
