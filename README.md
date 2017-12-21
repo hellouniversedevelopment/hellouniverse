@@ -1,2 +1,2 @@
 # hellouniverse
-website for Hello Universe! Web Development
+Website for Hello Universe!
